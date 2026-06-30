@@ -60,26 +60,9 @@ This project proposes a hardware-based solution that continuously monitors the s
    * LCD notification
 6. The system continues monitoring in real time.
 
+## System architecture
 
-
-## System Architecture
-
- 
-      RF Sensor
-          │
-Wi-Fi Scan │ BLE Scan
-      \    │    /
-       \   │   /
-        ESP32 Controller
-             │
-     Threshold Comparison
-             │
-    ┌────────┴────────┐
-    │                 │
-   LED             Buzzer
-    │                 │
-         LCD Display
-
+<img width="880" height="398" alt="System Architecture" src="https://github.com/user-attachments/assets/3630b8ec-1286-46a8-8297-96796f2ab7be" />
 
 
 ## Detection Capabilities
@@ -127,19 +110,7 @@ The system is capable of detecting:
 
 ## Repository Structure
 
-
-├── Arduino_Code/
-│   └── ESP32 Firmware
-├── MATLAB/
-│   └── Signal Analysis Scripts
-├── Simulation/
-│   └── Wokwi Files
-├── Report/
-│   └── Project Report.pdf 
-├── Presentation/
-│   └── Project PPT.pdf
-├── Images/
-│   └── Prototype & Circuit Images
+<img width="233" height="145" alt="workflow" src="https://github.com/user-attachments/assets/baef3318-8208-4265-b196-f047c4e7187c" />
 
 
 ## Applications
