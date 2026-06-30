@@ -1,8 +1,9 @@
 # Malpractice Detection System
 
-A low-cost, portable, and privacy-preserving embedded system that detects unauthorized wireless devices in examination halls using ESP32, Wi-Fi, Bluetooth Low Energy (BLE), and RF signal analysis
+A low-cost, portable, and privacy-preserving embedded system that detects unauthorized wireless devices in examination halls using ESP32, Wi-Fi, Bluetooth Low Energy (BLE), and RF signal analysis. The system identifies active wireless communication in real time and alerts invigilators through visual and audible indicators, helping maintain examination integrity without relying on cameras, microphones, or internet connectivity.
+
 <img width="1280" height="577" alt="Project Prototype" src="https://github.com/user-attachments/assets/a504484f-65f2-470c-8e73-f42f907e1a7f" />
-. The system identifies active wireless communication in real time and alerts invigilators through visual and audible indicators, helping maintain examination integrity without relying on cameras, microphones, or internet connectivity.
+
 
 ## Overview
 
